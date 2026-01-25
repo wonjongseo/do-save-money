@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997037383909",
+    "firebase_url": "https://do-save-mn-default-rtdb.firebaseio.com",
+    "project_id": "do-save-mn",
+    "storage_bucket": "do-save-mn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997037383909:android:00b99f46de58e543fd340c",
+        "android_client_info": {
+          "package_name": "com.wonjongseo.do_save_money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997037383909-i442be0a7r52rf84daore096sjletoqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YJYQ-JsGHVc8K5JbHCZR3tlh7MVaTP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997037383909-i442be0a7r52rf84daore096sjletoqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997037383909-gvsakena7ph7h0vuv2dhl1sg7f0tu30t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wonjongseo.doSaveMoney"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
