@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatelessWidget {
-  static String name = '/home';
-  const HomeScreen({super.key});
+class SigninScreen extends StatelessWidget {
+  static String name = '/signin';
+  const SigninScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: [Text('Home')],
+            children: [Text('Sign')],
           ),
         ),
       ),
